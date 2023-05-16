@@ -1,14 +1,3 @@
-<h3> Português (Brasil) </h3>
-
-## Olá! 👨‍💻
-
-Meu nome é Alan, sou desenvolvedor web trainee, atualmente moro em Teresópolis, Rio de Janeiro.
-Embora eu esteja em crescimento em relação ao meu aprendizado sobre programação, eu gosto de programar para diversas áreas e grande parte do meu aprendizado tem o objetivo de criar sites e aplicativos para solucionar problemas do mundo real enquanto ficam bonitos em todos os dispositivos.
-
-<hr>
-
- <h3> In English </h3>
-
 ## Hello! 👨‍💻
 
 My name is Alan, I'm a trainee web developer, I currently live in Teresópolis, Rio de Janeiro. While I'm growing in terms of my programming learning, I enjoy programming in a variety of areas, and much of my learning is aimed at creating websites and apps that solve real-world problems while looking good on all devices.
