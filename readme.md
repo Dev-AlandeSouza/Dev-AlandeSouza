@@ -1,6 +1,6 @@
 ## Hello! 👨‍💻
 
-My name is Alan, I'm a trainee web developer, I currently live in Teresópolis, Rio de Janeiro. While I'm growing in terms of my programming learning, I enjoy programming in a variety of areas, and much of my learning is aimed at creating websites and apps that solve real-world problems while looking good on all devices.
+My name is Alan, I’m a trainee web developer, currently living in Teresópolis, Rio de Janeiro. While I’m still practicing my programming skills , I like to program using a whole variety of areas such as back and frontend, and the whole point of my learning is aimed at creating websites and apps that solve real-world problems while looking good on all devices.
 
 <a href="#">
 <img src="https://media3.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e479h6a9xybzsmhjrpl4isdrprv02go2nkq5q0d3q7w&ep=v1_gifs_search&rid=giphy.gif&ct=g" title="hello" width="335" height="243" align="right" alt="HelloDog!">
